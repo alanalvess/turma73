@@ -1,4 +1,4 @@
-package atividades240301;
+package atividades240301.collectionsListSet;
 
 import java.util.HashSet;
 import java.util.Scanner;
